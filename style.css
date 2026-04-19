@@ -1,0 +1,52 @@
+/* Style body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+/* Style header */
+header {
+    background-color: #4CAF50;
+    padding: 15px;
+}
+
+/* Style navigation */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+/* Style list items */
+li {
+    display: inline-block;
+    width: 100px;
+    color: white;
+}
+
+/* Style main section */
+main {
+    background-color: #f4f4f4;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Style footer */
+footer {
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+/* Style heading */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: white;
+}
+
+/* Style paragraph */
+p {
+    line-height: 1.6;
+}
